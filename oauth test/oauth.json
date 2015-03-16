@@ -1,0 +1,13 @@
+{
+    "web": {
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "client_secret": "DWBRrexl6bZel9FYUN7bXerE",
+        "token_uri": "https://accounts.google.com/o/oauth2/token",
+        "client_email": "603701886524-ji5vqm31363ocjkea93atj5inms18vb6@developer.gserviceaccount.com",
+        "redirect_uris": ["https://github.com/ghoshArnab"],
+        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/603701886524-ji5vqm31363ocjkea93atj5inms18vb6@developer.gserviceaccount.com",
+        "client_id": "603701886524-ji5vqm31363ocjkea93atj5inms18vb6.apps.googleusercontent.com",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "javascript_origins": ["https://github.com"]
+    }
+}
